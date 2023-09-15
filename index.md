@@ -6,3 +6,8 @@
 ```python
 print("Hello, world!")
 ```
+
+This is a weekend to-do list:
+- [ ] complete homework
+- [ ] go for a run
+- [ ] football game!
